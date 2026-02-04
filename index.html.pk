@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Velmora Apparel | Official Website</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background: #000;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 32px;
+  letter-spacing: 1px;
+}
+
+nav {
+  background: #222;
+  text-align: center;
+  padding: 10px 0;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 16px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  padding: 30px 0;
+}
+
+section {
+  background: #fff;
+  padding: 25px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+h2 {
+  border-bottom: 2px solid #000;
+  padding-bottom: 8px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+footer {
+  background: #000;
+  color: #fff;
+  text-align: center;
+  padding: 15px;
+  font-size: 14px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>Velmora Apparel</h1>
+  <p>Official Business Website</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#products">Products</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<div class="container">
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>
+    Velmora Apparel is a clothing and apparel brand dedicated to delivering
+    quality garments with modern designs. We focus on comfort, durability,
+    and customer satisfaction.
+  </p>
+  <p>
+    Our mission is to provide stylish and affordable apparel for individuals
+    and businesses.
+  </p>
+</section>
+
+<section id="products">
+  <h2>Our Products</h2>
+  <ul>
+    <li>T-Shirts</li>
+    <li>Hoodies</li>
+    <li>Casual Wear</li>
+    <li>Streetwear</li>
+    <li>Custom Apparel</li>
+  </ul>
+</section>
+
+<section id="contact">
+  <h2>Contact Information</h2>
+  <p><b>Business Name:</b> Velmora Apparel</p>
+  <p><b>Email:</b> info@velmoraapparel.com</p>
+  <p><b>Business Type:</b> Apparel & Clothing</p>
+  <p><b>Status:</b> Official Business Website</p>
+</section>
+
+</div>
+
+<footer>
+  © 2026 Velmora Apparel. All Rights Reserved.
+</footer>
+
+</body>
+</html>
